@@ -1,0 +1,12 @@
+<configs>
+
+<remove xpath="/recipes/recipe[@name='gunBotT3JunkDrone']"/>
+
+<remove xpath="/recipes/recipe[@name='modRoboticDroneArmorPlatingMod']"/>
+<remove xpath="/recipes/recipe[@name='modRoboticDroneCargoMod']"/>
+<remove xpath="/recipes/recipe[@name='modRoboticDroneMedicMod']"/>
+<remove xpath="/recipes/recipe[@name='modRoboticDroneHeadlampMod']"/>
+<remove xpath="/recipes/recipe[@name='modRoboticDroneMoraleBoosterMod']"/>
+
+
+</configs>

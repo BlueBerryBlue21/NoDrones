@@ -1,0 +1,7 @@
+<configs>
+
+<remove xpath="/items/item[@name='gunBotT3JunkDrone']"/>
+
+<remove xpath="/items/item[@name='modRoboticDroneCargoModSchematic' or @name='modRoboticDroneMedicModSchematic' or @name='modRoboticDroneHeadlampModSchematic' or @name='modRoboticDroneArmorPlatingModSchematic' or @name='modRoboticDroneMoraleBoosterModSchematic']"/>
+
+</configs>

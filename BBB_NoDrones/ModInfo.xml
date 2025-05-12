@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="BBB_NoDrones" />
+	<DisplayName value="BBB_NoDrones" />
+	<Description value="BBB_NoDrones configuration to be used with 7 Days to Die" />
+	<Author value="BlueBerryBlue" />
+	<Version value="1.1.0.4" />
+	<Website value="" />
+	<SkipWithAntiCheat value="true" />
+</xml>

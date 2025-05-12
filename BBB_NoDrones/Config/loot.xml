@@ -1,0 +1,20 @@
+<configs>
+
+<remove xpath="/lootcontainers/lootgroup[@name='groupWeaponsT3_TurretsSyndrome' or @name='groupQuestWeaponsRangedT3' or @name='groupDrone' or @name='groupInfestedT5MeleeRanged' or @name='twitch_robo3']/item[@name='gunBotT3JunkDrone']"/>
+
+
+
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics']/item[@name='modRoboticDroneCargoModSchematic']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics']/item[@name='modRoboticDroneMedicModSchematic']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics']/item[@name='modRoboticDroneHeadlampModSchematic']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics']/item[@name='modRoboticDroneArmorPlatingModSchematic']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics']/item[@name='modRoboticDroneMoraleBoosterModSchematic']"/>
+
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics' or @name='groupDrone' or @name='twitch_roboMods']/item[@name='modRoboticDroneCargoMod']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics' or @name='groupDrone' or @name='twitch_roboMods']/item[@name='modRoboticDroneMedicMod']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics' or @name='groupDrone' or @name='twitch_roboMods']/item[@name='modRoboticDroneHeadlampMod']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics' or @name='groupDrone' or @name='twitch_roboMods']/item[@name='modRoboticDroneArmorPlatingMod']"/>
+<remove xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2' or @name='groupBotSchematics' or @name='groupDrone' or @name='twitch_roboMods']/item[@name='modRoboticDroneMoraleBoosterMod']"/>
+
+
+</configs>
