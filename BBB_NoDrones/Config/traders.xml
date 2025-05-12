@@ -4,10 +4,5 @@
 <remove xpath="//trader_item_group[@name='groupRangedAll']/item[@name='gunBotT3JunkDrone']"/>
 
 <remove xpath="//trader_item_group[@name='rareBooks']/item[@name='modRoboticDroneCargoModSchematic' or @name='modRoboticDroneMedicModSchematic' or @name='modRoboticDroneHeadlampModSchematic' or @name='modRoboticDroneArmorPlatingModSchematic' or @name='modRoboticDroneMoraleBoosterModSchematic' ]"/>
-<!--
-<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='modRoboticDroneMedicModSchematic']"/>
-<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='modRoboticDroneHeadlampModSchematic']"/>
-<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='modRoboticDroneArmorPlatingModSchematic']"/>
-<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='modRoboticDroneMoraleBoosterModSchematic']"/>
--->
+
 </configs>
